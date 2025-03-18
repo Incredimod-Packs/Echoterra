@@ -13,7 +13,7 @@ HOW TO USE IT:
 <icons>
   <line>
     <icon name="Jungle Heart" ID="1" color="#666" locked="false" customName="false" customIcon="asset-v1/icon.png" hidden="false"></icon>
-    <icon name="AQUARIS" ID="1" color="#666" locked="false" customName="false" customIcon="asset-v2/icon.png" hidden="false"></icon>
-    <icon name="SNOWSPIRE" ID="1" color="#666" locked="false" customName="false" customIcon="asset-v3/icon.png" hidden="true"></icon>
+    <icon name="AQUARIS" ID="2" color="#666" locked="false" customName="false" customIcon="asset-v2/icon.png" hidden="false"></icon>
+    <icon name="SNOWSPIRE" ID="3" color="#666" locked="false" customName="false" customIcon="asset-v3/icon.png" hidden="true"></icon>
   </line>
 </icons>

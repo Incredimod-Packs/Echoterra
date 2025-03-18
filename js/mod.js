@@ -28,4 +28,6 @@ function onLockedIcon(){
   boxDialog.open('This Icon is locked', 'LOCKED!')
 }
 
-// Check examples.js for more functions and triggers!
+function onV1Polo0(){
+    ChangeColorBG("#24472d", 8, false);
+}

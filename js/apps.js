@@ -12,7 +12,7 @@ versions.v1 = {
   nbpolo: 7,
   bonusloopA: 0, // ← It makes bonus start on loop A, if its false, bonus will start after 1 loop
   bonusendloopA: 0,
-  colBck: "#000000",
+  colBck: "#2a5132",
   col0: "#000000",
   col1: "#6caf6a",
   col2: "#000000",

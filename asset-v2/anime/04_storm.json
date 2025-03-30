@@ -2,9 +2,9 @@
    "animeName":"04_storm",
    "percentageMax":"0.2",
    "totalFrame":"288",
-   "width":"328",
-   "height":"765",
-   "headHeight":"765",
+   "width":"164",
+   "height":"382.5",
+   "headHeight":"382.5",
    "arrayFrame":[
   	{"prop":"0,382.5,0,0"},
   	{"prop":"164,382.5,0,0"},

@@ -2,9 +2,9 @@
   "animeName": "17_whisperia",
   "percentageMax": "0.2",
   "totalFrame": "221",
-  "width": "328",
-  "height": "760",
-  "headHeight": "790",
+  "width": "164",
+  "height": "380",
+  "headHeight": "395",
   "arrayFrame": [
         {"prop": "0,380,0,0"        },
         {"prop": "0,380,0,0"        },
